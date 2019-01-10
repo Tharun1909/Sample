@@ -4,16 +4,19 @@
         <members>SampleDeployClass</members>
         <members>SampleFailingTestClass</members>
         <members>Test</members>
+        <members>View</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>SampleAccountTrigger</members>
         <members>Test1</members>
+        <members>View1</members>
         <name>ApexTrigger</name>
     </types>
     <types>
         <members>SampleAccountTrigger</members>
         <members>Test2</members>
+        <members>View2</members>
         <name>VisualforcePage</name>
     </types>
     <version>44.0</version>
